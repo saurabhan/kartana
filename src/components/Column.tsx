@@ -1,6 +1,6 @@
 import React from "react";
 import { Droppable, Draggable } from "react-beautiful-dnd";
-import Task from "./task";
+import Task from "./Task";
 import { HiPlus } from "react-icons/hi";
 
 interface Props {
